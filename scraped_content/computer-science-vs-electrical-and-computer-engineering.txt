@@ -1,0 +1,33 @@
+What's the Difference Between Computer Science and Electrical & Computer Engineering?
+BREADCRUMB
+Home Undergraduate Applicants
+By John A. Board, PhD
+Students considering a career centered on computers and computing often ask for clarification about the difference between computer engineering (CompE) and computer science (CompSci), and how Duke's undergraduate curriculum reflects this relationship.
+Duke has a unique interdisciplinary environment — several faculty members have appointments in both Computer Engineering and Computer Science
+There are philosophical as well as practical answers to these questions.
+CompE and CompSci study the use of the digital computer as a tool that makes much of modern technology possible, and the overlap between the two fields is significant.
+Both disciplines study the inner workings of computers and both study hardware, as well as software aspects of computer systems. Today, CompSci, CompE, and Electrical & Computer Engineering students all study programming and basic computer operation.
+THE CASE OF THEORY V. PRACTICE
+Computer Science is concerned with the theoretical underpinnings of computation.
+Thus, one typically finds courses in programming, algorithms, numerical analysis (how do you guarantee a number produced by a computer program is accurate), and theory of computation (what can and cannot in principle be computed) in CompSci departments.
+Many CompSci departments at American universities began as offshoots from mathematics departments. The emphasis on providing a rigorous mathematical foundation for the computing disciplines is still evident in many CompSci curricula.
+Computer Engineering focuses on the practical aspects of computers.
+So, courses in digital logic design and processor interfacing which build on an engineering student's knowledge of electronics and circuits are typically found in CompE programs. CompE programs also often have strong ties to solid state physics and devices programs where the details of actually manufacturing integrated circuits are studied.
+Computer engineering programs were largely developed in engineering departments strong in electrical engineering.
+At the intersection between CompE and CompSci are courses in computer architecture (the basic construction and low-level programming of computers) and operating systems. Both types of courses are likely to be found in either or both programs.
+DUKE'S INNOVATIVE APPROACH
+At Duke's Pratt School of Engineering, we offer a major in the hybrid discipline of Electrical & Computer Engineering. (Duke students can also choose to study the traditional electrical engineering major.)
+By offering a major in Electrical & Computer Engineering rather than a Computer Engineering major, we emphasize increasingly important traditional electrical engineering subjects such as electromagnetics and signal processing to anyone with a deep interest in computer systems.
+We find the hybrid discipline of Electrical & Computer Engineering produces better-prepared students
+SEE WHERE DUKE GRADS GO »
+We find the hybrid discipline of Electrical & Computer Engineering (ECE) produces students better prepared to integrate modern computing systems into devices and products capable of bettering the world. (Computer Science at Duke is a department in Trinity College of Arts & Sciences. Computer science majors follow the Trinity College curriculum.)
+Many Duke faculty members have appointments in both the ECE and Computer Science departments.
+In the Pratt School of Engineering, many of our Electrical & Computer Engineering majors take a second major in Computer Science. And, the two departments have cooperated to create a second major program that fits well into a four-year program.
+This gives Duke students the best of all worlds—a firm grounding in theoretical underpinnings, deep practical knowledge of actual computer hardware, and traditional and yet still highly relevant electrical engineering subjects that better prepare them for future technology.
+John A. Board, PhD, is a Duke University professor with appointments in Electrical & Computer Engineering and in Computer Science.
+STUDY ECE AT DUKE
+UNDERGRADUATE CONTACT
+Lisa Gresham Huettel
+Edmund T. Pratt, Jr. School Professor of the Practice of Electrical and Computer Engineering
+919-660-5237
+lisa.huettel@duke.edu

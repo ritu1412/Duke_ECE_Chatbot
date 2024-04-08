@@ -1,0 +1,68 @@
+BSE Degree Planning
+BREADCRUMB
+Home Undergraduate Degrees
+ON THIS PAGE
+Degree Checksheets
+Sample 4-year Programs of Study
+Sample 4+1: BSE+MS Program (for an MS Degree in Five Years)
+ECE Program at a Glance
+ECE UNDERGRADUATE HANDBOOK
+In the handbook, Duke ECE undergraduate students will find degree check sheets and typical course sequences that outline the degree requirements semester by semester.
+There are also links to these check sheets and sample 4-year schedules below. Students contemplating second majors or other special goals should carefully choose courses that meet the minimum ECE requirements and the academic and scheduling requirements for any special goals.  
+Questions about prerequisites, AP Credits, and course sequencing should be discussed with the student's academic adviser, the ECE DUS (Dr. Huettel), or the student's academic dean.
+DOWNLOAD HANDBOOK
+REQUIREMENTS
+The general requirements and departmental requirements for a B.S.E. with the electrical and computer engineering major requires the completion of 34 distinct courses which are composed of:
+WRITING 101, during the first academic year
+EGR 101L, during the first semester 
+5 elective Social Sciences or Humanities courses, appropriately distributed
+A 6-course mathematics and probability/statistics sequence: MATH 111L, 112L, and (212, 216, and 353 -- for those who matriculated before Fall 2021, OR 218D-2, 219, and 353 -- for those who matriculated in Fall 2021 or later) and a Statistics Elective: one of {STA 130, STA 240L, MATH 230, Math 231, Math 340, EGR 238L, ECE 380 or ECE 555})
+3 natural science courses: CHEM 20, 21, or 101DL; PHYSICS 151L and 152L;
+2 foundation courses in engineering computation: EGR 103L (see Note 1) and COMPSCI 201
+5 foundation courses in electrical engineering: ECE 110L, 230L, 250D, 270DL, and 280L
+4 approved ECE Concentration Electives, in two different areas with at least two courses in one of the elected areas
+1 Elective ECE Course at the 300-level or above
+1 ECE Extension Elective course selected from: a 300-level (or above) course from the departments of Biology, Chemistry, Computer Science, Evolutionary Anthropology, Mathematics, Physics, Psychology & Neuroscience, or Statistical Science that has an NS or QS code (and does not have an SS code); OR an upper-level (300-level or above) course from ECE, BME, MEMS, or CEE; OR BIOLOGY 201L, 202L, 203L, 275A, CHEM 201DL, 202DL, or 210DL, or PHYS 264L. An ECE Independent Study course (300-level or above) can be counted as an ECE Extension Elective. Neither Independent Study courses from other departments nor AP credits can be used to satisfy the ECE Extension Elective requirement.
+An approved ECE Design Elective
+4 Free Electives 
+An elective course that belongs to more than one requirements category may be counted only once.
+NOTE 1: Students who place into CompSci 201 are not required to take EGR 103L.
+NOTE 2: For students who matriculated Fall 2017 or earlier:
+1 Natural Science/Engineering elective is accepted in lieu of EGR 101L and can be selected from BIOLOGY 20, 201L, 202L, 275A, or 311 or 300-level course from a Natural Science department (Biology, Chemistry, Computer Science, Evolutionary Anthropology, Mathematics, Physics, Psychology & Neuroscience, Statistical Science) that has an NS or QS code (and does not have an SS code), or a course from an Engineering department (ECE, BME, MEMS, CEE)
+2 Elective ECE Courses at the 300-level or above are required instead of taking 1 ECE Elective and 1 ECE Extension Elective
+DEGREE CHECKSHEETS
+The following links provide checksheets in PDF format for an ECE major and for an ECE major in combination with various second majors. The checksheets list the courses required for the named program. Students should use these checksheets and the sample programs of the following section, in consultation with their ECE Faculty Advisor, to plan and track a viable sequence of courses that will ensure that all course requirements are met.
+Each checksheet is a single page of a PDF file containing all of the covered programs. One can go directly to the page for a specific program by clicking on that program in the following lists. The "current page" can be printed (or saved to a file for easy future reference) from Adobe Reader using the print dialog box.
+Suggestion: Use the printed checksheet to record which requirements are met by AP credits, by placing "AP" in the Semester column of the checksheet for example, and the past or expected future semesters for the other requirements. Then review this page with your faculty adviser during one of your scheduled advising meetings.
+Download Checksheets
+For Students who Matriculated Fall 2021 and later
+For Students who Matriculated Fall 2018 - Fall 2020
+For Students who Matriculated Fall 2017 and Earlier
+ SAMPLE 4-YEAR PROGRAMS OF STUDY
+The following links provide sample 4-year programs of study in PDF format for an ECE major and for an ECE major in combination with various second majors. Each sample program, together with its stated prerequisites, is fully consistent with its corresponding checksheet. Individual sample programs can be printed (or saved to a file for easy future reference) from Adobe Reader using the print dialog box.
+Download Sample Programs of Study
+For students Who Matriculated Fall 2021 and later
+For students Who Matriculated Fall 2018 - Fall 2020
+For Students Who Matriculated Fall 2017 and Earlier
+ SAMPLE 4+1: BSE/MASTER'S PROGRAM (FOR A COMBINED BSE/MASTER'S DEGREE IN FIVE YEARS)
+With careful planning, motivated undergraduates matriculating with Advanced Placement credits and with summer courses as necessary may use program flexibility to take up to two graduate courses in the spring of their senior year to structure an accelerated program leading to a BSE degree in Electrical and Computer Engineering (ECE) at the end of four years and a Master's degree at the end of a fifth year. Interested students should work with the Director of Undergraduate Studies and the Director of Graduate Studies to develop an appropriate academic plan.
+ ECE PROGRAM AT A GLANCE
+For matriculants Fall 2017 and earlier:   ECE Program at a Glance
+For matriculants Fall 2018 - Fall 2020:    ECE Program at a Glance
+For matriculants Fall 2021 and later:      ECE Program at a Glance
+ECE UNDERGRADUATE HANDBOOK ARCHIVES
+Fall 2022: ECE Undergraduate Handbook (2022-2023 Academic Year, Fall)
+Fall 2021: ECE Undergraduate Handbook (2021-2022 Academic Year, Fall)
+Fall 2020: ECE Undergraduate Handbook (2020-2021 Academic Year, Fall).
+Spring 2020: ECE Undergraduate Handbook (2019-2020 Academic Year, Spring)
+Fall 2019: ECE Undergraduate Handbook (2019-2020 Academic Year, Fall)
+Fall 2018: ECE Undergraduate Handbook (2018-2019 Academic Year, Fall)
+Fall 2017: ECE Undergraduate Handbook (2017-2018 Academic Year, Fall)
+Fall 2016: ECE Undergraduate Handbook (2016-2017 Academic Year, Fall)
+Fall 2015: ECE Undergraduate Handbook (2015-2016 Academic Year, Fall)
+Fall 2014: ECE Undergraduate Handbook (2014-2015 Academic Year)
+UNDERGRADUATE CONTACT
+Lisa Gresham Huettel
+Edmund T. Pratt, Jr. School Professor of the Practice of Electrical and Computer Engineering
+919-660-5237
+lisa.huettel@duke.edu

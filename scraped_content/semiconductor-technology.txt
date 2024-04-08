@@ -1,0 +1,48 @@
+Semiconductor Technology Track
+BREADCRUMB
+Home Master's Areas of Study
+Duke ECE's master's track in semiconductor technology is led by international leaders in the areas of nanoelectronics, optoelectronics, microfluidic systems, integrated optics, sensors, integrated multifunctional devices/systems, energy conversion devices, and quantum sensors
+Semiconductor technology research at Duke is highly interdisciplinary, and includes the fabrication of devices and circuits through the state-of-the-art Shared Materials Instrumentation Facility (SMiF) cleanroom and characterization lab.
+The Semiconductor Technology Track is available as part of:
+A research-oriented Master of Science (MS) degree
+An industry-focused Master of Engineering (MEng) degree
+Our Semiconductor Technology Track (SCT) is designed to prepare master's students either to engage in PhD research or to obtain engineering jobs in the semiconductor industry.
+Students can opt to earn a graduate certificate in Nanoscience or Photonics in conjunction with their Duke ECE master's degree.
+Duke also offers an interdisciplinary Master of Engineering in Photonics and Optical Sciences featuring coursework in both ECE and the Duke Department of Biomedical Engineering.
+KEY COURSES
+ECE/NANOSCI 511: Foundations of Nanoscale Science & Technology
+ECE 512: Emerging Nanoelectronic Devices
+ECE 521: Quantum Mechanics
+ECE 524: Introduction to Solid-State Physics
+ECE 526: Semiconductor Devices for ICs
+OTHER NOTABLE COURSES
+ECE 523: Quantum Information Science
+ECE 527: Analog Integrated Circuits
+ECE 528: Nanoscale Integrated Circuit Chip Technology
+ECE 529: Digital Integrated Circuits
+ECE 532: Analog Integrated Circuit Design
+ECE 533: Biochip Engineering
+ECE 539: CMOS VLSI Design Methodologies
+ECE 546: Optoelectronic Devices
+ECE 722: Quantum Electronics
+  JOIN OUR MAILING LIST!
+Sign up to receive more information about Duke Engineering graduate programs and recruitment events »
+MASTER'S CONTACTS
+Miroslav Pajic
+Director of Master's Studies and Dickinson Family Associate Professor
+919-660-5252
+dms-ece@duke.edu
+Krista Turner
+Master's Program Coordinator
+919-660-8190
+ecemastersteam@duke.edu
+Kevyn Light
+Senior Program Coordinator
+919-660-5267
+ecemastersteam@duke.edu
+Matthew Novik
+Graduate Program Coordinator
+919-660-1801
+ecemastersteam@duke.edu
+ADMISSIONS
+Contact the Admissions & Recruiting team at pratt_masters@duke.edu
