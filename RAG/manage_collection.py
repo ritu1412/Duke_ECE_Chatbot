@@ -21,14 +21,15 @@ def extract_from_pdf(pdf_doc):
         text += page.extract_text()
     return text
 
-def get_text_chunks(files):
+def get_text_chunks(filepath):
     ## returns a single string with all the raw text from pdfs
     text = ""
+    files = os.listdir(filepath)
     for file in files:
         if file.endswith('.pdf'):
-            text += extract_from_pdf(file)
+            text += extract_from_pdf(os.path.join(filepath,file))
         if file.endswith('.txt'):
-            with open(file,'r') as txtfile:
+            with open(os.path.join(filepath,file),'r') as txtfile:
                 text += txtfile.read()
     
     ## create a new instance
@@ -63,7 +64,7 @@ def main():
             collection = ragclient.create_collection(name=c_name,embedding_function=openai_ef)
         else:
             collection = ragclient.get_collection(name=c_name,embedding_function=openai_ef)
-        text_chunks = get_text_chunks([file_path])
+        text_chunks = get_text_chunks(file_path)
         collection.add(documents=text_chunks,ids=[str(i) for i in range(1,len(text_chunks)+1)])
     else:
         ragclient.delete_collection(name=c_name)
