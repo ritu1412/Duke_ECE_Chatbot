@@ -2,7 +2,7 @@ To-do
 Group Members:
 1. Medha Sreenivasan ms1112
 2. Thwisha Nahender tn130
-3. Ritu Toshniwal
+3. Ritu Toshniwal rt333
 
 This repository contains the codebase for a chatbot powered by the RAG (Retrieval-Augmented Generation) process and integrated with ChromaDB for efficient document storage and retrieval.
 
